@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>3762AE01-4EE8-4D9C-BDF9-6829925D98F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3762AE01-4EE8-4D9C-BDF9-6829925D98F5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>client project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>client</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project client with scheme client and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574266660.605479</real>
+			<key>timeStoppedRecording</key>
+			<real>574266690.37210596</real>
+			<key>title</key>
+			<string>Building project client with scheme client and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3762AE01-4EE8-4D9C-BDF9-6829925D98F5</string>
+		</dict>
+		<key>8E1AF321-8319-4C2C-9BD4-915C40CBA5B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E1AF321-8319-4C2C-9BD4-915C40CBA5B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>client project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>client</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project client with scheme client and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574265282.99698496</real>
+			<key>timeStoppedRecording</key>
+			<real>574265469.48236203</real>
+			<key>title</key>
+			<string>Building project client with scheme client and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8E1AF321-8319-4C2C-9BD4-915C40CBA5B5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
